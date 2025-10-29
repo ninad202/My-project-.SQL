@@ -28,6 +28,6 @@ It’s a great beginner-friendly project to demonstrate your SQL skills — idea
 ✨ Author
 
 Ninad Pawar
-📧 [Add your email or LinkedIn here]
+📧 [ninadpawar20032@gmail.com]
 ⭐ Don’t forget to star the repo if you find it helpful!
 
